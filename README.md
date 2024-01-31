@@ -1,2 +1,2 @@
 # One-command-install-ESMfold
-这里提供了一个yaml
+这里提供了一个yaml可以通过conda来快速无痛一键安装ESMfold，算是已经踩过所有通过官方安装遇到的暗坑了
